@@ -1,0 +1,11 @@
+28/01/2020 WP445_10 versione trovata in archivio
+
+28/01/2020 WP445_11 versione salvata prendendo le modifiche online in quanto diverse dalla ver_10 contatori C2 e C3. più segnale negato di I 12.2, PE51.
+
+28/01/2020 WP445_12 RENATO modifica PE9 ponticellato, non installata tra WP e MAKRO. Disabilitazione input 13.3 e 13.5 che non servono più
+Spostato segnale I13.2 per elevatore dosatori vuoto. Vengono direttamente dal piano sopra. I6.6 mancanza dosatori, I6.7 mancanza tappi.
+Programmato rele KA203 per comando elevatore tappi e KA202 per segnale nastro uscita in marcia a MAKRO. Portato ingresso I7.6 da MAKRO
+in marcia. Ponticellato nel quadro I7.7 e I2.1, PE1 non installata. modificati parametri inverter uscita 20 con P1080 a 27 e P1082 a 100.
+Invertito segnale fotocellula PE55. Spostato, anticipato, PXT per comando scarto.
+
+07/02/2020 WP445_13 SIMONE modifica fatta da MAKRO per evitare arresto canale mestolini a macchina ferma 
